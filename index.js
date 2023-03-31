@@ -4,7 +4,8 @@ const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 // An array of questions for user input
-const questions = () => inquirer.prompt([
+const questions = [
+    
     {
         type: 'input',
         message: 'What is your project title?',
@@ -39,7 +40,7 @@ const questions = () => inquirer.prompt([
     {
         type: 'input',
         message: 'Please list your collaborators, if any, and include links to their Github profiles.',
-        name: 'contribution',
+        name: 'contributors',
     },
     {
         type: 'input',
@@ -49,33 +50,37 @@ const questions = () => inquirer.prompt([
     {
         type: 'input',
         message: 'Please provide your GitHub username.',
-        name: 'GitHub',
+        name: 'github',
     },
     {
         type: 'input',
         message: 'Please provide your email address.',
         name: 'email',
     },
+    {
+        type: 'input',
+        message: 'Please provide a readme file name to be generated.',
+        name: 'name',
+    },
     
 
-]);
+];
 
 
 // A function to write README file
 .then((response) =>{
-    fs.writeFile('README.md', data, error => error 
+    fs.writeFile(`${data.name}.md`, data, error => error 
     ? console.error('Error!')
     : console.log('Your professional README is now generated!'))
    
 
 });
 
-// TODO: Create a function to initialize app
+// A function to initialize app
 function init() {
-    .then(data => {
-        return generateMarkdown(data);
-    })
-}
+    return inquirer.prompt(questions);
+    
+};
 
 // Function call to initialize app
 init();
