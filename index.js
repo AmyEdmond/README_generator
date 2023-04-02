@@ -39,7 +39,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Please list your collaborators, if any, and include links to their Github profiles.',
+        message: 'How can others contribute to your project?',
         name: 'contributors',
     },
     {
@@ -68,13 +68,13 @@ const questions = [
 
 
 // A function to write README file
-.then((response) =>{
+function writeToFile(data) {
     fs.writeFile(`${data.name}.md`, data, error => error 
     ? console.error('Error!')
     : console.log('Your professional README is now generated!'))
    
 
-});
+};
 
 // A function to initialize app
 function init() {
