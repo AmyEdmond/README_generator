@@ -47,6 +47,6 @@ Watch this demo to see the README generator.
 ## Questions
 
 If you have any questions about this project, you can reach me at:
-Github: [AmyEdmond](https://github.com/AmyEdmond)
-Email: [e_amy0587@hotmail.com](e_amy0587@hotmail.com)
+* Github: [AmyEdmond](https://github.com/AmyEdmond)\n
+* Email: [e_amy0587@hotmail.com](e_amy0587@hotmail.com)
 
