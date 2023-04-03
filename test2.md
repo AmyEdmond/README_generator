@@ -1,37 +1,39 @@
-# readme
-  ![License:BSD3](http://img.shields.io/badge/license-BSD3-blue.svg)
 
-  ## Description
-  bffffddd\n * hgvfffddd\n *bgggggfg
+# Readme 
+  ![License:MIT](http://img.shields.io/badge/license-MIT-blue.svg)
 
-  ## Table of Contents
+## Description
+  jbgrerehhgh
+
+## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
-  * [https://opensource.org/license/bsd-3-clause/](#license)
+  * [License]()
+  * [Contributions](#contributions)
   * [Test](#tests)
   * [Questions](#questions)
   
-  ## Installation
-  gvgcggg
+## Installation
+  ffgfgfgfgfgfg
 
-  ## Usage
-  cggggg
+## Usage
+  vcvcvcvcvcv
 
-  ## Credits
-  bbvbvbvbv
+## Credits
+  cbbvgfcgvg
 
-  ##License
-  This project is license under: BSD3
+  ## License
+    This project is license under: https://lbesson.mit-license.org/
 
-  ## Contributions
-  vnbvbvbvbv
+## Contributions
+  bhhvhgfvggfg
 
-  ## Tests
-  nvbvbvbvbv
+## Tests
+  bcbcbcbcbbc
 
-  ## Questions
+## Questions
   If you have any questions about this project, you can reach me at: 
-  GitHub: [nvncn](https://www.github.com/nvncn)
-  Email: [bvbvnvb](bvbvnvb)
+  * GitHub: [kbj](https://www.github.com/kbj)
+  * Email: [jfhggvg](jfhggvg)
 

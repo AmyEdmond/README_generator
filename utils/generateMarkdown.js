@@ -34,7 +34,7 @@ function renderLicenseSection(license) {
     return "";
   } else {
     return `## License
-    This project is license under: ${license}`;
+    This project is license under: ${renderLicenseLink(license)}`;
   }
 }
 
@@ -51,7 +51,7 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
-  * [${renderLicenseLink(data.license)}](#license)
+  * [License]()
   * [Contributions](#contributions)
   * [Test](#tests)
   * [Questions](#questions)
