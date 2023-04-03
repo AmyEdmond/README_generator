@@ -1,9 +1,9 @@
 
 # readme
-  
+  ![License:LGPL](http://img.shields.io/badge/license-LGPL-blue.svg)
 
 ## Description
-  gfgfudud
+  jgoguhep
 
 ## Table of Contents
   * [Installation](#installation)
@@ -15,25 +15,26 @@
   * [Questions](#questions)
   
 ## Installation
-  jdjdftgddhg
+  ghrreruig
 
 ## Usage
-  gdfa v
+  hf9bfhenu
 
 ## Credits
-  gdddfdf
+  hf7ffnfu
 
 ## License
   
+  This project is license under: [LGPL](renderLicenseLink(license))
 
 ## Contributions
-  9iofua igui
+  uhefuefufu
 
 ## Tests
-  ifgew bifew
+  ijejefjejeu
 
 ## Questions
   If you have any questions about this project, you can reach me at: 
-  * GitHub: [gfgfgfb](https://www.github.com/gfgfgfb)
-  * Email: [hcsidydgd](hcsidydgd)
+  * GitHub: [ifif](https://www.github.com/ifif)
+  * Email: [ufgu](ufgu)
 
