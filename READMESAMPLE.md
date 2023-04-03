@@ -18,7 +18,7 @@
   Copy the SSH link within this repo located under the green "Code" button. Next, clone the repo within GitBash by using the command "git clone `paste link here`". Run the command `npm init` to install the npm package, then run the command `npm install inquirer` to get the inquirer package.
 
 ## Usage
-  Within the directory, the application is invoked by using the command `node index.js`. Enter the required information for your project by answering each question. A new README file will be generated.
+  Within the directory, the application is invoked by using the command `node index.js`. Enter the required information for your project by answering each question. A new README file will be generated. ![image](https://user-images.githubusercontent.com/122325607/229403708-dd0c6b23-71a1-4d39-b80a-f8fe55e51b1f.png)
 
 ## Credits
   Amanda P. Edmond
@@ -31,10 +31,10 @@
   If you see something in this project that could be improved, you can do a feature request with updated code so I can review your changes.
 
 ## Tests
-  ![image](https://user-images.githubusercontent.com/122325607/229403708-dd0c6b23-71a1-4d39-b80a-f8fe55e51b1f.png)
+  Watch this `demo` to see the README generator.
 
 ## Questions
   If you have any questions about this project, you can reach me at: 
-  * GitHub: [* Github: [AmyEdmond](https://github.com/AmyEdmond)](https://www.github.com/* Github: [AmyEdmond](https://github.com/AmyEdmond))
-  * Email: [* Email: [e_amy0587@hotmail.com](e_amy0587@hotmail.com)](* Email: [e_amy0587@hotmail.com](e_amy0587@hotmail.com))
+  * GitHub: [AmyEdmond](https://www.github.com/AmyEdmond)
+  * Email: [e_amy0587@hotmail.com](e_amy0587@hotmail.com)
 
