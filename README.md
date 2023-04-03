@@ -41,12 +41,12 @@ If you see something in this project that could be improved, you can do a featur
 
 
 ## Tests
-
-Watch this demo to see the README generator.
+![image](https://user-images.githubusercontent.com/122325607/229403708-dd0c6b23-71a1-4d39-b80a-f8fe55e51b1f.png)
+Watch this [demo](https://watch.screencastify.com/v/VfbwwUwSuBudIG7TcseD) to see the README generator.
 
 ## Questions
 
 If you have any questions about this project, you can reach me at:
-* Github: [AmyEdmond](https://github.com/AmyEdmond)\n
+* Github: [AmyEdmond](https://github.com/AmyEdmond)
 * Email: [e_amy0587@hotmail.com](e_amy0587@hotmail.com)
 
