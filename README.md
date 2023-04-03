@@ -28,7 +28,7 @@ The goal for this challenge was to create a README generator so a professional R
 Within the directory, the application is invoked by using the command `node index.js`.
 Enter the required information for your project by answering each questions. 
 A new README file will be generated.
-![image](https://user-images.githubusercontent.com/122325607/229409411-01052bb0-c064-4b36-88bd-c4976c6088d9.png)
+![image](https://user-images.githubusercontent.com/122325607/229410020-decf7686-2f0e-4afe-a97c-ee61cf3255a6.png)
 
 ## Credits
 
