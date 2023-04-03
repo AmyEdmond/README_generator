@@ -1,9 +1,9 @@
 
 # readme
-  ![License:LGPL](http://img.shields.io/badge/license-LGPL-blue.svg)
+  ![License:Apache](http://img.shields.io/badge/license-Apache-blue.svg)
 
 ## Description
-  jgoguhep
+  fggcvcv
 
 ## Table of Contents
   * [Installation](#installation)
@@ -15,26 +15,26 @@
   * [Questions](#questions)
   
 ## Installation
-  ghrreruig
+  fhvhhvh
 
 ## Usage
-  hf9bfhenu
+  nfbbvbv
 
 ## Credits
-  hf7ffnfu
+  nnvnvn
 
 ## License
   
-  This project is license under: [LGPL](renderLicenseLink(license))
+  This project is license under: [Apache](https://www.apache.org/licenses/)
 
 ## Contributions
-  uhefuefufu
+  jkfjfhjhfg
 
 ## Tests
-  ijejefjejeu
+  vbbvbv
 
 ## Questions
   If you have any questions about this project, you can reach me at: 
-  * GitHub: [ifif](https://www.github.com/ifif)
-  * Email: [ufgu](ufgu)
+  * GitHub: [mnvvj](https://www.github.com/mnvvj)
+  * Email: [bvbvbv](bvbvbv)
 
