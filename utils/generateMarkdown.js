@@ -3,26 +3,26 @@
 function renderLicenseBadge(license) {
   if (!license) {
     return "";
-  }else{
-    return `![License:${data.license}](http://img.shields.io/badge/license-${data.license}-blue.svg)`
+  } else {
+    return `![License:${license}](http://img.shields.io/badge/license-${license}-blue.svg)`;
   }
 }
 
 // A function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  if (license === 'Apache') {
-    return `https://www.apache.org/licenses/`
+  if (license === "Apache") {
+    return `https://www.apache.org/licenses/`;
   }
-  if (license === 'BSD3') {
-    return `https://opensource.org/license/bsd-3-clause/`
+  if (license === "BSD3") {
+    return `https://opensource.org/license/bsd-3-clause/`;
   }
-  if (license === 'LGPL') {
-    return `https://www.gnu.org/licenses/lgpl-3.0.en.html`
+  if (license === "LGPL") {
+    return `https://www.gnu.org/licenses/lgpl-3.0.en.html`;
   }
-  if (license === 'MIT') {
-    return `https://lbesson.mit-license.org/`
-  }else{
+  if (license === "MIT") {
+    return `https://lbesson.mit-license.org/`;
+  } else {
     return "";
   }
 }
@@ -32,15 +32,16 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (!license) {
     return "";
-  }else{
-    return `##License
-    This project is license under: ${data.license}`
+  } else {
+    return `## License
+    This project is license under: ${license}`;
   }
 }
 
 // A function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
+  # ${data.title}
   ${renderLicenseBadge(data.license)}
 
   ## Description
@@ -51,6 +52,7 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   * [Credits](#credits)
   * [${renderLicenseLink(data.license)}](#license)
+  * [Contributions](#contributions)
   * [Test](#tests)
   * [Questions](#questions)
   
@@ -66,15 +68,16 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
 
   ## Contributions
-  ${data.contributors}
+  ${data.contributions}
 
   ## Tests
   ${data.tests}
 
   ## Questions
-  If you have any questions about this project, you can reach me at: ${data.email}
+  If you have any questions about this project, you can reach me at: 
+  GitHub: [${data.github}](https://www.github.com/${data.github})
+  Email: [${data.email}](${data.email})
 
-  You can find me on GitHub at: [${data.github}](https://www.github.com/${data.github}).
 `;
 }
 

@@ -1,27 +1,52 @@
-# README generator
+# README Generator
 
 ## Description
 
-The goal for this challenge was to create a README generator so a professional README can be quickly created for a new project. When the application is invoked, I'm prompted to answer a series of questions about my application. A professional README.md 
+The goal for this challenge was to create a README generator so a professional README can be quickly created for a new project. An important component of an application is a high quality README. When the application is invoked, you are prompted to answer a series of questions about the application repository. Using this generator,  the need to create a professional README from scratch is removed and you only have to answer the questionsand it is done for you.
 
-## Links
+## Table of Contents
 
-Github: https://github.com/AmyEdmond/README_generator
-
-## Technology used
-
-* JavaScript 
-* Node JS
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Contributions](#contributions)
+* [Test](#tests)
+* [Questions](#questions)
 
 ## Installation
 
-N/A
+* Copy the SSH link within this repo located under the green "Code" button.
+* Clone the repo within GitBash by using the command "git clone `paste link here`"
+* Run the command `npm init` to install the npm package.
+* Run the command `npm install inquirer` to get the inquirer package.
 
 ## Usage
 
-When I search for a city in the weather dashboard the current and future conditions for that city is displayed and that city is listed in the search history.
-I can see the current condition for that city, the city name, the date, a weather condition icon, temperature, humidity and wind speed are displayed.
-In the next section, a 5 day forecast is displayed that shows the date, a weather condition icon, temperature, humidity and wind speed.
-When I click on one of the cities listed in the search history, current and future weather conditions for that city are displayed.
+Within the directory, the application is invoked by using the command `node index.js`.
+Enter the required information for your project by answering each questions. 
+A new README file will be generated.
 
-## Images
+## Credits
+
+Amanda P. Edmond
+
+## License
+
+This project is license under: MIT
+
+## Contributions
+
+If you see something in this project that could be improved, you can do a feature request with updated code so I can review your changes.
+
+
+## Tests
+
+Watch this demo to see the README generator.
+
+## Questions
+
+If you have any questions about this project, you can reach me at:
+Github: [AmyEdmond](https://github.com/AmyEdmond)
+Email: [e_amy0587@hotmail.com](e_amy0587@hotmail.com)
+
