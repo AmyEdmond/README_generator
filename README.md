@@ -33,7 +33,7 @@ Amanda P. Edmond
 
 ## License
 
-This project is license under: MIT
+This project is license under: [MIT](https://lbesson.mit-license.org/)
 
 ## Contributions
 
